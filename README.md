@@ -1,4 +1,4 @@
-# Ventex-Terms-Of-Service
+# Bot-Terms-Of-Service
 > **Bot Terms Of Service**
 
 **We reserve the right to change this policy at anytime without notification. By using Spread, you agree to the latest terms of service so you should check regularly!”
