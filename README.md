@@ -21,6 +21,6 @@ At some point, we may wish to update the app. We may also wish to stop providing
 - breaking any of the following will lead to blacklisting and banning from our services.
 
 # Contact
-- [Support Server](https://discord.gg/mV8vTc5Yq8)
+- [Support Server](https://discord.gg/GJXzMyjKgM)
 
 **Thank you for using our service**
